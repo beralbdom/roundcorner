@@ -20,6 +20,7 @@ After: https://photos.app.goo.gl/GBssPJ2ZLun5TkTw5 (round corner added to make i
 # Credits
 
 @topjohnwu 
-@Joey Huab
+@Stallix
+@veez21
 
 Many thanks.
