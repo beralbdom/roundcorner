@@ -1,0 +1,7 @@
+id=roundcorner
+name=RoundcornerFix
+version=v1
+versionCode=1
+author=wewillchen
+description=fix the round corner (top and bottom) for Mix2s with AOSP
+minMagisk=17000
