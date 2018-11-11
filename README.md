@@ -1,10 +1,12 @@
 # module-roundcornerfix
 
-Fix the round corner for mix2s with AOSP PIE based ROM
+Fix the round corner display for mix2s with AOSP PIE based ROM.
 
-Warning:Do not install this module in MIUI
+By: added an overlay to system/vendor to fix the corner display.
 
-Tested on Mix2s with Pixel Experience GSI 
+WARNING:Do NOT install this module in MIUI.
+
+Tested on Mix2s with Pixel Experience GSI PIE.
 
 # Credits
 
