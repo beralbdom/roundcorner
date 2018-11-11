@@ -10,7 +10,7 @@ WARNING:Do NOT install this module in MIUI.
 
 Tested on Mix2s with Pixel Experience GSI PIE.
 
-Tips :If you are using GSI and install failed with `phhgsi_arm64_a is not supported`,just edit `/system/build.prop` and change `ro.product.device=phhgsi_arm64_a` to `ro.product.device=polaris`, reboot and install.
+Tip: If you are using GSI and install failed with `phhgsi_arm64_a is not supported`,just edit `/system/build.prop` and change `ro.product.device=phhgsi_arm64_a` to `ro.product.device=polaris`, reboot and install.
 
 Before: https://photos.app.goo.gl/5U8ns16vM1z2xKf98 (right angle due to manufacturing processes)
 
