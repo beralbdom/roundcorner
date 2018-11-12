@@ -17,7 +17,7 @@ edit `/system/build.prop` and change `ro.product.device=phhgsi_arm64_a` to `ro.p
 
 or download `non device check` version on my [GitHub](https://github.com/Magisk-Modules-Repo/roundcorner/releases)
 
-[Before](https://photos.app.goo.gl/5U8ns16vM1z2xKf98)  (right angle due to manufacturing processes)
+[Before](https://photos.app.goo.gl/hvHWJaaiDqWzMi3G8)  (right angle due to manufacturing processes)
 
 [After](https://photos.app.goo.gl/GBssPJ2ZLun5TkTw5)  (round corner added to make it smooth)
 
