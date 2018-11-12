@@ -15,7 +15,7 @@ If you are using GSI and install failed with `phhgsi_arm64_a is not supported`
 
 edit `/system/build.prop` and change `ro.product.device=phhgsi_arm64_a` to `ro.product.device=polaris`, reboot and install.
 
-or download `non device check` version on my [GitHub](https://github.com/Magisk-Modules-Repo/roundcorner/release)
+or download `non device check` version on my [GitHub](https://github.com/Magisk-Modules-Repo/roundcorner/releases)
 
 [Before](https://photos.app.goo.gl/5U8ns16vM1z2xKf98)  (right angle due to manufacturing processes)
 
