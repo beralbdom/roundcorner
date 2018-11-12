@@ -1,4 +1,4 @@
-# RoundcornerFix
+# RoundcornerFix for Mix2s
 
 Fix the round corner display for Mix2s with AOSP PIE based ROM.
 
