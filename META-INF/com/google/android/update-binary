@@ -95,7 +95,7 @@ ui_print "******************************"
 ##########################################################################################
 
 device="$(grep_prop ro.product.device)"
-if [ "$device" != "polaris" ]; then
+if [ "$device" != "angler" ]; then
   echo "! $device is not supported"
   exit 1
 fi
